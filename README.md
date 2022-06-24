@@ -25,8 +25,7 @@
 <p style="font-size: 15px">É possível você utilizar o projeto seguindos estes passos:</p>
 <p style="font-size: 15px">Utilize o Git Clone no repositório em uma pasta de sua escolha</p>
 
-```
-$ git clone https://github.com/1995william/GitHub-Api.git
+
 ```
 
 <p style="font-size: 15px">Execute o comando a seguir no terminal para instalar as dependências</p>
